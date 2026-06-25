@@ -25,4 +25,4 @@ Format: Output in clear Markdown with exactly three immediate operational strate
 * **Engine Used:** Canva Magic Media
 * **Visual Prompt:** "A flat minimalist vector logo featuring a central brain icon surrounded by human figures arranged in a circular formation. One side of the circle is expanding outward with new figures and a plus sign, symbolizing the active recruitment of public mental health workers. Clean geometric design, modern government health program style. Use dark blue, green, and white. White background. No text, gradients, shadows, or 3D effects."
 
-![Markdown%20Prompt%20Playbook](Markdown%20Prompt%20Playbook/Visual%20Branding%20Asset.png)
+![Markdown Prompt Playbook](Markdown%20Prompt%20Playbook/Visual%20Branding%20Asset.png)
