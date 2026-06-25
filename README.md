@@ -70,12 +70,6 @@ For this project, I combined bold colors, rounded shapes, and visual icons to ma
 For this project, I focused on creating a modern and visually engaging interface that reflects the vibrant energy and style of K-pop culture. I incorporated bold imagery, consistent typography, and a well-structured layout to make product discovery more intuitive and enjoyable for users. For the personal video introduction, I utilized a bold color palette, smooth transitions from the intro to the outro, dynamic text effects, and a minimal design approach to create a visually cohesive and memorable presentation.
 </p>
 
-# Google Mail & Google Meet Roleplay Video Simulation
-
-Members: Cortez and Suson
-
-Link: ( https://drive.google.com/file/d/1cZ3lBq18Phskl9J9Xzo949cS3gxJGlhq/view?usp=sharing)
-
 # A. Markdown Prompt Playbook
 
 ## The Davao City Health Office Prompt System
