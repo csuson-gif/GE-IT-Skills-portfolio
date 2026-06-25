@@ -15,7 +15,7 @@
 
 ### Embedded Chart
 
-![Renewable Energy Production Trend](Renewable%20Energy%20Production%20Trend/chart%201.png)
+![Automated Visual Data Report](Automated%20Visual%20Data%20Report/chart%201.png)
 
 **Key Finding:** Renewable energy production increased by approximately 70% between 2020 and 2025.
 
